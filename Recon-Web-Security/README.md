@@ -1,4 +1,4 @@
-# Recon-Security-Web
+# Recon-Web-Security
 
 ### securityheaders
 Valida si las cabeceras de seguridad en un sitio web de destino están presentes y, si están presentes, si se han configurado de forma segura. 
