@@ -1,6 +1,6 @@
 # Security-Tools
 
-Este repositorio es una recopilación de herramientas para auditorías de seguridad. Poco a poco se irá actualizando y añadiendo nuevas herramientas.
+Recopilación de herramientas de seguridad para auditorías. Este repositorio se irá actualizando y añadiendo nuevas herramientas.
 
 ## Recon-Web-Security
 - securityheaders
