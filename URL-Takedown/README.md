@@ -1,6 +1,15 @@
-How long this site has been active on the internet: https://whois.domaintools.com
+How long this site has been active on the internet: 
+- Whois: https://whois.domaintools.com
 
-How many security vendor’s have flagged this URL as malicious: https://www.virustotal.com/gui/home/url
+How many security vendor’s have flagged this URL as malicious: 
+- VirusTotal https://www.virustotal.com/gui/home/url
+- URLVoid https://www.urlvoid.com
+- dnstwist https://dnstwist.it
+- Threatcop https://threatcop.com/phishing-url-checker
+- PhishStats https://phishstats.info/search
+- URLScan https://urlscan.io
+- URLhaus https://urlhaus.abuse.ch/browse
+- EasyDMARC https://easydmarc.com/tools/phishing-url
 
 **List providers to request their takedown:**
 
@@ -23,3 +32,6 @@ How many security vendor’s have flagged this URL as malicious: https://www.vir
 | Cisco Talos | https://talosintelligence.com/reputation_center |
 | Abuse.ch (URLhaus) | https://urlhaus.abuse.ch/login |
 | Cloudflare | https://abuse.cloudflare.com |
+| Phish Report | https://phish.report/analysis |
+| Phishing Initiative | https://phishing-initiative.eu/contrib |
+| PhishTank | https://www.phishtank.com |
