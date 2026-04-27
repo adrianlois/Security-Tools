@@ -16,10 +16,10 @@ How many security vendor’s have flagged this URL as malicious:
 | Provider | URL Takedown request |
 |----------|----------------------|
 | McAfee | https://sitelookup.mcafee.com |
-| Google Safe Browsing | https://safebrowsing.google.com/safebrowsing/report_phish |
-| Microsoft | https://www.microsoft.com/en-us/wdsi/support/report-unsafe-site |
-| FortiGuard | https://www.fortiguard.com/webfilter |
-| BrightCloud | https://www.brightcloud.com/tools/url-ip-lookup.php |
+| Report to Google Safe Browsing | https://safebrowsing.google.com/safebrowsing/report_phish/ |
+| Microsoft Report unsafe site | https://www.microsoft.com/en-us/wdsi/support/report-unsafe-site |
+| Report Alibaba Cloud | https://report.alibabacloud.com/?rc=1&_p_lc=1#/reportCenter/home |
+| FortiGuard | https://www.fortiguard.com/webfilter 
 | CRDF Labs | https://threatcenter.crdf.fr/submit_url.html |
 | Netcraft | https://report.netcraft.com/report |
 | Palo Alto Networks | https://urlfiltering.paloaltonetworks.com |
