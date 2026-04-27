@@ -16,9 +16,9 @@ How many security vendor’s have flagged this URL as malicious:
 | Provider | URL Takedown request |
 |----------|----------------------|
 | McAfee | https://sitelookup.mcafee.com |
-| Report to Google Safe Browsing | https://safebrowsing.google.com/safebrowsing/report_phish/ |
+| Google Safe Browsing Report | https://safebrowsing.google.com/safebrowsing/report_phish/ |
 | Microsoft Report unsafe site | https://www.microsoft.com/en-us/wdsi/support/report-unsafe-site |
-| Report Alibaba Cloud | https://report.alibabacloud.com/?rc=1&_p_lc=1#/reportCenter/home |
+| Alibaba Cloud Report Center | https://report.alibabacloud.com/ |
 | FortiGuard | https://www.fortiguard.com/webfilter 
 | CRDF Labs | https://threatcenter.crdf.fr/submit_url.html |
 | Netcraft | https://report.netcraft.com/report |
