@@ -1,8 +1,12 @@
 # Security-Tools
 
-Recopilación de herramientas de seguridad para auditorías. Este repositorio se irá actualizando y añadiendo nuevas herramientas.
+Collection of security tools for audits and assessments. This repository will be continuously updated with new tools.
 
 ## Recon-Web-Security
 - securityheaders
 - shcheck
 - testssl
+
+## URL-Takedown
+- Domain age checks.
+- Malicious URL reporting and reputation checks.
