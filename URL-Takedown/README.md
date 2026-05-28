@@ -2,14 +2,14 @@ How long this site has been active on the internet:
 - Whois: https://whois.domaintools.com
 
 How many security vendor’s have flagged this URL as malicious: 
-- VirusTotal https://www.virustotal.com/gui/home/url
-- URLVoid https://www.urlvoid.com
-- dnstwist https://dnstwist.it
-- Threatcop https://threatcop.com/phishing-url-checker
-- PhishStats https://phishstats.info/search
-- URLScan https://urlscan.io
-- URLhaus https://urlhaus.abuse.ch/browse
-- EasyDMARC https://easydmarc.com/tools/phishing-url
+- VirusTotal: https://www.virustotal.com/gui/home/url
+- URLVoid: https://www.urlvoid.com
+- dnstwist: https://dnstwist.it
+- Threatcop: https://threatcop.com/phishing-url-checker
+- PhishStats: https://phishstats.info/search
+- URLScan: https://urlscan.io
+- URLhaus: https://urlhaus.abuse.ch/browse
+- EasyDMARC: https://easydmarc.com/tools/phishing-url
 
 **List providers to request their takedown:**
 
