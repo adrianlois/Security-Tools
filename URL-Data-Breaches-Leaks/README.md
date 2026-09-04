@@ -17,6 +17,18 @@
 | https://alligator.cash | Carding | Cashout de datos financieros robados |
 | https://crdpro.at | Carding | Foro de carding y distribución de datos de fraude financiero |
 | https://www.enclave.cc | Carding | Forum de carding y breach data financiera |
+| https://bf.st | Data Breaches | Mirror activo de BreachForums; principal marketplace de venta de bases de datos robadas y credenciales |
+
+## Monitorización / Cyber Threat Intelligence
+
+| URL | Tipo | Descripción |
+|-----|------|-------------|
+| https://www.ransomlook.io | TI gratuita | Monitoriza grupos de ransomware activos y sus víctimas públicas |
+| https://www.ransomware.live | TI gratuita | Tracking en tiempo real de leak sites de grupos de ransomware |
+| https://ransomfeed.it | TI gratuita | Feed agregado de publicaciones de grupos ransomware |
+| https://socradar.io | TI comercial | Plataforma de threat intel: dark web, breaches y exposición de marca |
+| https://www.hudsonrock.com | TI comercial | Inteligencia sobre infostealers y credenciales comprometidas |
+| https://haveibeenpwned.com | TI gratuita | Verifica si un email o dominio aparece en brechas de datos conocidas |
 
 ---
 
