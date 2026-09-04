@@ -23,12 +23,12 @@
 
 | URL | Tipo | Descripción |
 |-----|------|-------------|
-| https://www.ransomlook.io | TI gratuita | Monitoriza grupos de ransomware activos y sus víctimas públicas |
-| https://www.ransomware.live | TI gratuita | Tracking en tiempo real de leak sites de grupos de ransomware |
-| https://ransomfeed.it | TI gratuita | Feed agregado de publicaciones de grupos ransomware |
-| https://socradar.io | TI comercial | Plataforma de threat intel: dark web, breaches y exposición de marca |
-| https://www.hudsonrock.com | TI comercial | Inteligencia sobre infostealers y credenciales comprometidas |
-| https://haveibeenpwned.com | TI gratuita | Verifica si un email o dominio aparece en brechas de datos conocidas |
+| https://www.ransomlook.io | Ransomware Tracker | Monitoriza grupos de ransomware activos y sus víctimas públicas |
+| https://www.ransomware.live | Ransomware Tracker | Tracking en tiempo real de leak sites de grupos de ransomware |
+| https://ransomfeed.it | Ransomware Tracker | Feed agregado de publicaciones de grupos ransomware |
+| https://socradar.io | Threat Intel | Plataforma de threat intel: dark web, breaches y exposición de marca |
+| https://www.hudsonrock.com | Threat Intel | Inteligencia sobre infostealers y credenciales comprometidas |
+| https://haveibeenpwned.com | Breach Lookup | Verifica si un email o dominio aparece en brechas de datos conocidas |
 
 ---
 
